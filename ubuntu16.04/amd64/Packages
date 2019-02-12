@@ -660,11 +660,11 @@ Depends: nvidia-container-runtime (= 2.0.0+docker18.06.2-1), docker-ce (= 18.06.
 Breaks: nvidia-docker (<< 2.0.0)
 Replaces: nvidia-docker (<< 2.0.0)
 Filename: ./nvidia-docker2_2.0.3+docker18.06.2-1_all.deb
-Size: 2878
-MD5sum: 9e0cb1d5997fc6806eab11ff765e7f89
-SHA1: 2cf037ea61395d9bcc0ab2f3d25931e790f72ab4
-SHA256: d0826bbed05d3f474ab7a55756bd9d6a4415692dc89de225b737b9535c3b8648
-SHA512: 3da1a2bd68cb7a97ba64bcef4dddb424322dd5eae039a09766e63861206224fbb32a59b882b45f018c6e12825451b36961a0c5f182381ff1bd8223f9eb7adc38
+Size: 2876
+MD5sum: 398894db7d6eb9d834465b4ca5e063c8
+SHA1: c8446427f84737f2a9ddbeca4e6bb6a51aa437e3
+SHA256: 97d480e5034bf2da837a9426d2d89ca48c54cfcba0dc9384ab6a35a5b0c8c5d7
+SHA512: 331c00811ce17ced0b959fbda73806ea54405ebb7c70afa7fd707c0959ffd73b0cd1a53b3633e8cf033b89665111d1b575885ab3dc0a001afd4b2a4b46642567
 Homepage: https://github.com/NVIDIA/nvidia-docker/wiki
 Description: nvidia-docker CLI wrapper
  Replaces nvidia-docker with a new implementation based on
@@ -724,10 +724,10 @@ Breaks: nvidia-docker (<< 2.0.0)
 Replaces: nvidia-docker (<< 2.0.0)
 Filename: ./nvidia-docker2_2.0.3+docker18.09.2-1_all.deb
 Size: 2880
-MD5sum: c67e6eedb4800e434722b11a472379a7
-SHA1: cf0a293e39fb13d00add79efa3168aea21b7366d
-SHA256: 12e895ddf93f9f927eba50c071e7a80fe88bbfaa122be616aadca3a259e644c3
-SHA512: 427b62bf21663eb0637506c8a6f883ecf5c7bc5c6a538147e273ddd885097829844ade622508e9e10d0ea6a6ab6eb0ecbc8b43754f222922b9ad3ec3520bc032
+MD5sum: ffb8f17448ed8eecb70de8abd92bf5ed
+SHA1: cd396708fea6064b95cb5185057132ea39773e1b
+SHA256: 566321130a418b9b4a4f17c63582d1805b948e00ef25810426e71a0655032690
+SHA512: 111e59b2d2781c7e133adecdf03e4461fba8faf9971293d1f1c724361ccd13abdd1fca582839cdf06d6218b21be1826190909731a19909eca0487f8ec7ba7f32
 Homepage: https://github.com/NVIDIA/nvidia-docker/wiki
 Description: nvidia-docker CLI wrapper
  Replaces nvidia-docker with a new implementation based on
